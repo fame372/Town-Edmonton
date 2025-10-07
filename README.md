@@ -20,7 +20,8 @@ The React Compiler is not enabled on this template because of its impact on dev 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 
-netlify - https://delicate-nougat-56f3ea.netlify.app/
+netlify - https://town-edmonton.netlify.app/?branch-town-edmonton
+
 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/88bf28d5-4a4f-4d82-8e2c-a1471097f698/deploy-status)](https://app.netlify.com/projects/home-town-edmonton/deploys)
