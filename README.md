@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/88bf28d5-4a4f-4d82-8e2c-a1471097f698/deploy-status)](https://app.netlify.com/projects/home-town-edmonton/deploys)
+
 
 
 
@@ -21,3 +21,6 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 netlify - https://delicate-nougat-56f3ea.netlify.app/
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/88bf28d5-4a4f-4d82-8e2c-a1471097f698/deploy-status)](https://app.netlify.com/projects/home-town-edmonton/deploys)
