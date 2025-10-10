@@ -1,7 +1,5 @@
 Welcome to Edmonton 🌆
 
-Live Demo: https://welcome-to-edmonton.netlify.app/
-
 A web site that showcases the city of Edmonton — its attractions, culture, history, and things to do.
 
 Features
