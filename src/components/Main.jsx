@@ -1,3 +1,8 @@
+
+
+import art from "../images/art-gallery-883967_1280.jpg";
+import muttart from "../images/muttart.jpg";
+import riverBoat from "../images/river-boat.jpg";
 export default function Main(){
     return(
         <>
@@ -6,7 +11,7 @@ export default function Main(){
                 <div className="continer">
                     <article>
                         <img 
-                            src="./src/images/art-gallery-883967_1280.jpg"
+                            src={art}
                             alt="Modern art gallery building with large glass windows reflecting the sky, surrounded by urban landscape. The scene feels inviting and creative."
                         />
                         <h3>
@@ -19,7 +24,7 @@ export default function Main(){
                     </article>
                     <article>
                         <img 
-                            src="./src/images/dji-2572410_1280.jpg"
+                            src={muttart}
                             alt="Distinctive glass pyramids of the Muttart Conservatory set in a lush green park, with city skyline in the background. The atmosphere is peaceful and vibrant."
                         />
                         <h3>
@@ -32,7 +37,7 @@ export default function Main(){
                     </article>
                     <article>
                         <img 
-                            src="./src/images/edmonton-84360_1280.jpg"
+                            src={riverBoat}
                             alt="Riverboat cruising along the North Saskatchewan River with passengers on deck enjoying scenic city views and greenery. The mood is relaxed and cheerful."
                         />
                         <h3>
